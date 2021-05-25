@@ -2,7 +2,7 @@
 
 # Images:
 ![Original Pong (Atari - 1972)](images/PongOriginal.png)
-![Pong Remake (Nikolay Hadzhiev - 2021)](https://github.com/3rd-Party-Guy/pong/blob/master/images/PongRemake.png)
+![Pong Remake (Nikolay Hadzhiev - 2021)](images/PongRemake.png)
 
 ## Description:
 
